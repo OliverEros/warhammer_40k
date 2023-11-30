@@ -1,0 +1,911 @@
+{
+    "Malefic Lord": {
+        "Malefic Lord": {
+            "model_count": "1",
+            "points_value": "80",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "4",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "8",
+            "save": "-"
+        }
+    },
+    "Renegade Commander": {
+        "Renegade Commander": {
+            "model_count": "1",
+            "points_value": "25",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "*",
+            "save": "5+"
+        }
+    },
+    "Rogue Psyker Coven": {
+        "Rogue Psyker": {
+            "model_count": "5",
+            "points_value": "20",
+            "movement": "6\"",
+            "weapon_skill": "5+",
+            "ballistic_skill": "5+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "1",
+            "leadership": "8",
+            "save": "-"
+        }
+    },
+    "Renegade Cultists": {
+        "Renegade Cultist": {
+            "model_count": "9-29",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "*",
+            "save": "6+"
+        },
+        "Renegade Cultist Champion": {
+            "model_count": "1",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "6+"
+        }
+    },
+    "Renegade Militia Squad": {
+        "Renegade Militia": {
+            "model_count": "9-19",
+            "points_value": "4",
+            "movement": "6\"",
+            "weapon_skill": "5+",
+            "ballistic_skill": "5+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "*",
+            "save": "6+"
+        },
+        "Renegade Militia Weapons Team": {
+            "model_count": "0-2",
+            "points_value": "8",
+            "movement": "6\"",
+            "weapon_skill": "5+",
+            "ballistic_skill": "5+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "6+"
+        },
+        "Renegade Militia Champion": {
+            "model_count": "1",
+            "points_value": "4",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "6+"
+        }
+    },
+    "Renegade Mutant Rabble": {
+        "Mutant": {
+            "model_count": "9-49",
+            "points_value": "4",
+            "movement": "6\"",
+            "weapon_skill": "5+",
+            "ballistic_skill": "5+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "*",
+            "save": "6+"
+        },
+        "Mutant Champion": {
+            "model_count": "1",
+            "points_value": "4",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "5+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "6+"
+        }
+    },
+    "Chimera": {
+        "Chimera": {
+            "model_count": "1",
+            "points_value": "65",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "7",
+            "wounds": "10",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Renegade Command Squad": {
+        "Disciples": {
+            "model_count": "4-14",
+            "points_value": "6",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "*",
+            "save": "5+"
+        },
+        "Disciple Weapon Team": {
+            "model_count": "0-1",
+            "points_value": "12",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "5+"
+        }
+    },
+    "Renegade Disciple Squad": {
+        "Disciples": {
+            "model_count": "4-14",
+            "points_value": "6",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "*",
+            "save": "5+"
+        },
+        "Disciple Weapon Team": {
+            "model_count": "0-1",
+            "points_value": "12",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "5+"
+        },
+        "Disciple Champion": {
+            "model_count": "1",
+            "points_value": "6",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "5+"
+        }
+    },
+    "Renegade Enforcer": {
+        "Renegade Enforcer": {
+            "model_count": "1",
+            "points_value": "30",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "*",
+            "save": "5+"
+        }
+    },
+    "Renegade Marauder Squad": {
+        "Marauder": {
+            "model_count": "4-9",
+            "points_value": "6",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        },
+        "Brute": {
+            "model_count": "0-2",
+            "points_value": "30",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "5+",
+            "strength": "4",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "5+"
+        },
+        "Marauder Chief": {
+            "model_count": "1",
+            "points_value": "6",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "8",
+            "save": "5+"
+        }
+    },
+    "Renegade Ogryn Beast Handlers": {
+        "Ogryn Pack Master": {
+            "model_count": "1",
+            "points_value": "30",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "6",
+            "save": "5+"
+        },
+        "Chaos Mauler Hounds": {
+            "model_count": "3-6",
+            "points_value": "10",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "-",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "6",
+            "save": "5+"
+        }
+    },
+    "Renegade Ogryn Brutes": {
+        "Ogryn Brute": {
+            "model_count": "3-12",
+            "points_value": "30",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "6",
+            "save": "5+"
+        },
+        "Ogryn Berserker Boss": {
+            "model_count": "0-1",
+            "points_value": "30",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "4",
+            "attacks": "4",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Renegade Plague Ogryns": {
+        "Plague Ogryn": {
+            "model_count": "3-9",
+            "points_value": "25",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "6",
+            "save": "-"
+        }
+    },
+    "Armoured Sentinels": {
+        "Armoured Sentinel": {
+            "model_count": "1-3",
+            "points_value": "30",
+            "movement": "8\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "5",
+            "toughness": "6",
+            "wounds": "6",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Hellhounds": {
+        "Hellhound": {
+            "model_count": "1-3",
+            "points_value": "95",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "7",
+            "wounds": "11",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        },
+        "Devil Dog": {
+            "model_count": "-",
+            "points_value": "95",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "7",
+            "wounds": "11",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        },
+        "Bane Wolf": {
+            "model_count": "-",
+            "points_value": "95",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "7",
+            "wounds": "11",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Scout Sentinels": {
+        "Scout Sentinel": {
+            "model_count": "1-3",
+            "points_value": "30",
+            "movement": "9\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "6",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "4+"
+        }
+    },
+    "Chaos Spawn": {
+        "Chaos Spawn": {
+            "model_count": "1-5",
+            "points_value": "33\u2022",
+            "movement": "7\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "-",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "4",
+            "attacks": "D6",
+            "leadership": "9",
+            "save": "5+"
+        }
+    },
+    "Salamander Scout Tank": {
+        "Salamander Scout Tank": {
+            "model_count": "1-3",
+            "points_value": "55",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "7",
+            "wounds": "10",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Valkyries": {
+        "Valkyrie": {
+            "model_count": "1-3",
+            "points_value": "105",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "14",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Arvus Lighter": {
+        "Arvus Lighter": {
+            "model_count": "1-3",
+            "points_value": "115",
+            "movement": "20\"-30\"",
+            "weapon_skill": "6+",
+            "ballistic_skill": "4+",
+            "strength": "6",
+            "toughness": "6",
+            "wounds": "8",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Basilisks": {
+        "Basilisk": {
+            "model_count": "1-3",
+            "points_value": "110",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "6",
+            "wounds": "11",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Hydras": {
+        "Hydra": {
+            "model_count": "1-3",
+            "points_value": "95",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "6",
+            "wounds": "11",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Leman Russ Battle Tanks": {
+        "Leman Russ Battle Tank": {
+            "model_count": "1-3",
+            "points_value": "130",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "8",
+            "wounds": "12",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Leman Russ Demolishers": {
+        "Leman Russ Demolisher": {
+            "model_count": "1-3",
+            "points_value": "132",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "8",
+            "wounds": "12",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Wyverns": {
+        "Wyvern": {
+            "model_count": "1-3",
+            "points_value": "85",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "6",
+            "wounds": "11",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Armageddon Pattern Medusa": {
+        "Armageddon Pattern Medusa": {
+            "model_count": "1-3",
+            "points_value": "120",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "6",
+            "toughness": "7",
+            "wounds": "12",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Colossus Bombard": {
+        "Colossus Bombard": {
+            "model_count": "1-3",
+            "points_value": "155",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "8",
+            "wounds": "12",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Earthshaker Battery": {
+        "Earthshaker Platform": {
+            "model_count": "1-3",
+            "points_value": "115",
+            "movement": "0\"",
+            "weapon_skill": "-",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "7",
+            "wounds": "7",
+            "attacks": "-",
+            "leadership": "7",
+            "save": "4+"
+        }
+    },
+    "Earthshaker Carriage Battery": {
+        "Earthshaker Carriage": {
+            "model_count": "1-3",
+            "points_value": "100",
+            "movement": "0\"",
+            "weapon_skill": "-",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "7",
+            "wounds": "7",
+            "attacks": "-",
+            "leadership": "7",
+            "save": "4+"
+        },
+        "Guardsmen Crew": {
+            "model_count": "4-12",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "6",
+            "save": "5+"
+        }
+    },
+    "Griffon Mortar Carrier": {
+        "Griffon Mortar Carrier": {
+            "model_count": "1-3",
+            "points_value": "77",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "11",
+            "attacks": "*",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Heavy Mortar Battery": {
+        "Heavy Mortar": {
+            "model_count": "1-3",
+            "points_value": "65",
+            "movement": "0\"",
+            "weapon_skill": "-",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "7",
+            "wounds": "6",
+            "attacks": "-",
+            "leadership": "7",
+            "save": "4+"
+        },
+        "Guardsmen Crew": {
+            "model_count": "3-9",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "6",
+            "save": "5+"
+        }
+    },
+    "Heavy Quad Launcher Battery": {
+        "Heavy Quad Launcher": {
+            "model_count": "1-3",
+            "points_value": "95",
+            "movement": "0\"",
+            "weapon_skill": "-",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "7",
+            "wounds": "6",
+            "attacks": "-",
+            "leadership": "7",
+            "save": "4+"
+        },
+        "Guardsmen Crew": {
+            "model_count": "3-9",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "6",
+            "save": "5+"
+        }
+    },
+    "Malcador Defender": {
+        "Malcador Defender": {
+            "model_count": "1",
+            "points_value": "200",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "8",
+            "wounds": "18",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Malcador Heavy Tank": {
+        "Malcador Heavy Tank": {
+            "model_count": "1",
+            "points_value": "215",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "8",
+            "wounds": "18",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Medusa Carriage Battery": {
+        "Medusa Carriage": {
+            "model_count": "1-3",
+            "points_value": "90",
+            "movement": "0\"",
+            "weapon_skill": "-",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "7",
+            "wounds": "7",
+            "attacks": "-",
+            "leadership": "7",
+            "save": "4+"
+        },
+        "Guardsmen Crew": {
+            "model_count": "4-12",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "6",
+            "save": "5+"
+        }
+    },
+    "Rapier Laser Destroyer": {
+        "Rapier Laser Destroyer": {
+            "model_count": "1",
+            "points_value": "90",
+            "movement": "3\"",
+            "weapon_skill": "6+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "5",
+            "wounds": "3",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "3+"
+        },
+        "Imperial Guard Crew": {
+            "model_count": "2",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "6",
+            "save": "5+"
+        }
+    },
+    "Renegade Heavy Weapons Squad": {
+        "Renegade Weapons Team": {
+            "model_count": "3-6",
+            "points_value": "3",
+            "movement": "6\"",
+            "weapon_skill": "5+",
+            "ballistic_skill": "5+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "*",
+            "save": "6+"
+        }
+    },
+    "Baneblade": {
+        "Baneblade": {
+            "model_count": "1",
+            "points_value": "385",
+            "movement": "*",
+            "weapon_skill": "5+",
+            "ballistic_skill": "*",
+            "strength": "9",
+            "toughness": "8",
+            "wounds": "26",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Macharius Heavy Tank": {
+        "Macharius Heavy Tank": {
+            "model_count": "1",
+            "points_value": "400",
+            "movement": "*",
+            "weapon_skill": "5+",
+            "ballistic_skill": "*",
+            "strength": "8",
+            "toughness": "8",
+            "wounds": "22",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Macharius Omega": {
+        "Macharius Omega": {
+            "model_count": "1",
+            "points_value": "355",
+            "movement": "*",
+            "weapon_skill": "5+",
+            "ballistic_skill": "*",
+            "strength": "8",
+            "toughness": "8",
+            "wounds": "22",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Macharius Vanquisher": {
+        "Macharius Vanquisher": {
+            "model_count": "1",
+            "points_value": "410",
+            "movement": "*",
+            "weapon_skill": "5+",
+            "ballistic_skill": "*",
+            "strength": "8",
+            "toughness": "8",
+            "wounds": "22",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Macharius Vulcan": {
+        "Macharius Vulcan": {
+            "model_count": "1",
+            "points_value": "415",
+            "movement": "*",
+            "weapon_skill": "5+",
+            "ballistic_skill": "*",
+            "strength": "8",
+            "toughness": "8",
+            "wounds": "22",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Minotaur Artillery Tank": {
+        "Minotaur Artillery Tank": {
+            "model_count": "1",
+            "points_value": "320",
+            "movement": "*",
+            "weapon_skill": "5+",
+            "ballistic_skill": "*",
+            "strength": "8",
+            "toughness": "8",
+            "wounds": "22",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "Valdor Tank Hunter": {
+        "Valdor Tank Hunter": {
+            "model_count": "1",
+            "points_value": "400",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "8",
+            "wounds": "20",
+            "attacks": "*",
+            "leadership": "8",
+            "save": "3+"
+        }
+    }
+}

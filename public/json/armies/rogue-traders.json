@@ -1,0 +1,286 @@
+{
+    "Elucia Vhane": {
+        "Elucia Vhane": {
+            "model_count": "1",
+            "points_value": "50\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "9",
+            "save": "4+"
+        }
+    },
+    "Aradia Madellan": {
+        "Aradia Madellan": {
+            "model_count": "1",
+            "points_value": "45\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "8",
+            "save": "5+"
+        }
+    },
+    "Daedalosus": {
+        "Daedalosus": {
+            "model_count": "1",
+            "points_value": "55\u2022",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "4",
+            "wounds": "5",
+            "attacks": "2",
+            "leadership": "8",
+            "save": "4+"
+        }
+    },
+    "Janus Draik": {
+        "Janus Draik": {
+            "model_count": "1",
+            "points_value": "45\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "9",
+            "save": "4+"
+        }
+    },
+    "Neyam Shai Murad": {
+        "Neyam Shai Murad": {
+            "model_count": "1",
+            "points_value": "55\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "9",
+            "save": "4+"
+        }
+    },
+    "Taddeus the Purifier": {
+        "Taddeus the Purifier": {
+            "model_count": "1",
+            "points_value": "55\u2022",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "6+"
+        }
+    },
+    "Nitsch\u2019s Squad": {
+        "Voidsman": {
+            "model_count": "4",
+            "points_value": "7\u2022",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "5+"
+        },
+        "Voidmaster Nitsch": {
+            "model_count": "1",
+            "points_value": "7\u2022",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "8",
+            "save": "5+"
+        },
+        "Aximillion": {
+            "model_count": "1",
+            "points_value": "7\u2022",
+            "movement": "8\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "-",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "5",
+            "save": "6+"
+        }
+    },
+    "Knosso Prond": {
+        "Knosso Prond": {
+            "model_count": "1",
+            "points_value": "28\u2022",
+            "movement": "7\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "4",
+            "leadership": "8",
+            "save": "5+"
+        }
+    },
+    "Larsen van der Grauss": {
+        "Larsen van der Grauss": {
+            "model_count": "1",
+            "points_value": "25\u2022",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "8",
+            "save": "4+"
+        }
+    },
+    "Sanistasia Minst": {
+        "Sanistasia Minst": {
+            "model_count": "1",
+            "points_value": "20\u2022",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Amallyn Shadowguide": {
+        "Amallyn Shadowguide": {
+            "model_count": "1",
+            "points_value": "55\u2022",
+            "movement": "7\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "2+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Dahyak Grekh": {
+        "Dahyak Grekh": {
+            "model_count": "1",
+            "points_value": "40\u2022",
+            "movement": "7\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "6+"
+        }
+    },
+    "Espern Locarno": {
+        "Espern Locarno": {
+            "model_count": "1",
+            "points_value": "35\u2022",
+            "movement": "6\"",
+            "weapon_skill": "5+",
+            "ballistic_skill": "5+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "6+"
+        }
+    },
+    "Gotfret de Montbard": {
+        "Gotfret de Montbard": {
+            "model_count": "1",
+            "points_value": "40\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "4",
+            "leadership": "7",
+            "save": "4+"
+        }
+    },
+    "Pious Vorne": {
+        "Pious Vorne": {
+            "model_count": "1",
+            "points_value": "30\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "7+"
+        }
+    },
+    "Rein and Raus": {
+        "Rein": "error"
+    },
+    "UR-025": {
+        "UR-025": {
+            "model_count": "1",
+            "points_value": "45\u2022",
+            "movement": "5\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "4",
+            "attacks": "2",
+            "leadership": "8",
+            "save": "3+"
+        }
+    },
+    "X-101": {
+        "X-101": {
+            "model_count": "1",
+            "points_value": "25\u2022",
+            "movement": "5\"",
+            "weapon_skill": "5+",
+            "ballistic_skill": "5+",
+            "strength": "4",
+            "toughness": "4",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "6",
+            "save": "4+"
+        }
+    }
+}

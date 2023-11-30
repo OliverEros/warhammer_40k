@@ -1,0 +1,137 @@
+{
+    "Shadowseer": {
+        "Shadowseer": {
+            "model_count": "1",
+            "points_value": "115",
+            "movement": "8\"",
+            "weapon_skill": "2+",
+            "ballistic_skill": "2+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "3",
+            "leadership": "9",
+            "save": "7+"
+        }
+    },
+    "Troupe Master": {
+        "Troupe Master": {
+            "model_count": "1",
+            "points_value": "65",
+            "movement": "8\"",
+            "weapon_skill": "2+",
+            "ballistic_skill": "2+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "5",
+            "leadership": "9",
+            "save": "6+"
+        }
+    },
+    "Troupe": {
+        "Player": {
+            "model_count": "5-12",
+            "points_value": "14",
+            "movement": "8\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "4",
+            "leadership": "8",
+            "save": "6+"
+        }
+    },
+    "Starweaver": {
+        "Starweaver": {
+            "model_count": "1",
+            "points_value": "60",
+            "movement": "16\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "6",
+            "attacks": "3",
+            "leadership": "8",
+            "save": "4+"
+        }
+    },
+    "Death Jester": {
+        "Death Jester": {
+            "model_count": "1",
+            "points_value": "50",
+            "movement": "8\"",
+            "weapon_skill": "2+",
+            "ballistic_skill": "2+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "9",
+            "save": "6+"
+        }
+    },
+    "Solitaire": {
+        "Solitaire": {
+            "model_count": "1",
+            "points_value": "90",
+            "movement": "12\"",
+            "weapon_skill": "2+",
+            "ballistic_skill": "2+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "8",
+            "leadership": "9",
+            "save": "6+"
+        }
+    },
+    "Skyweavers": {
+        "Skyweaver": {
+            "model_count": "2-6",
+            "points_value": "35",
+            "movement": "16\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "4",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "8",
+            "save": "4+"
+        }
+    },
+    "Voidweaver": {
+        "Voidweaver": {
+            "model_count": "1-3",
+            "points_value": "65",
+            "movement": "16\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "6",
+            "attacks": "3",
+            "leadership": "8",
+            "save": "4+"
+        }
+    },
+    "Webway Gate": {
+        "Webway Gate": {
+            "model_count": "1",
+            "points_value": "95",
+            "movement": "-",
+            "weapon_skill": "-",
+            "ballistic_skill": "-",
+            "strength": "-",
+            "toughness": "8",
+            "wounds": "14",
+            "attacks": "-",
+            "leadership": "-",
+            "save": "3+"
+        }
+    }
+}

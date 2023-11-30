@@ -1,0 +1,384 @@
+{
+    "Elysian Company Commander": {
+        "Elysian Company Commander": {
+            "model_count": "1",
+            "points_value": "40",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "9",
+            "save": "5+"
+        }
+    },
+    "Elysian Lord Commissar": {
+        "Elysian Lord Commissar": {
+            "model_count": "1",
+            "points_value": "60",
+            "movement": "6\"",
+            "weapon_skill": "2+",
+            "ballistic_skill": "2+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "9",
+            "save": "4+"
+        }
+    },
+    "Elysian Drop Trooper Squad": {
+        "Guardsman": {
+            "model_count": "9",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "5+"
+        },
+        "Sergeant": {
+            "model_count": "1",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "8",
+            "save": "5+"
+        }
+    },
+    "Officer of the Fleet": {
+        "Officer of the Fleet": {
+            "model_count": "1",
+            "points_value": "25",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "2",
+            "leadership": "6",
+            "save": "5+"
+        }
+    },
+    "Elysian Command Squad": {
+        "Veteran": {
+            "model_count": "4",
+            "points_value": "7",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "8",
+            "save": "5+"
+        },
+        "Veteran Weapons Team": {
+            "model_count": "0-1",
+            "points_value": "14",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Elysian Drop Sentinels": {
+        "Elysian Drop Sentinel": {
+            "model_count": "1-3",
+            "points_value": "40",
+            "movement": "9\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "6",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "4+"
+        }
+    },
+    "Elysian Platoon Commander": {
+        "Elysian Platoon Commander": {
+            "model_count": "1",
+            "points_value": "30",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "3",
+            "leadership": "8",
+            "save": "5+"
+        }
+    },
+    "Elysian Sniper Squad": {
+        "Elysian Sniper Team": {
+            "model_count": "3",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Elysian Special Weapons Squad": {
+        "Guardsman": {
+            "model_count": "6",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Elysian Veteran Squad": {
+        "Veteran": {
+            "model_count": "9",
+            "points_value": "7",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "5+"
+        },
+        "Veteran Sergeant": {
+            "model_count": "1",
+            "points_value": "7",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "8",
+            "save": "5+"
+        },
+        "Veteran Weapons Team": {
+            "model_count": "0-1",
+            "points_value": "14",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Tauros Assault Vehicle": {
+        "Tauros Assault Vehicle": {
+            "model_count": "1-3",
+            "points_value": "37",
+            "movement": "15\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "5",
+            "wounds": "6",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "4+"
+        }
+    },
+    "Tauros Venator": {
+        "Tauros Venator": {
+            "model_count": "1-3",
+            "points_value": "46",
+            "movement": "15\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "5",
+            "wounds": "6",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "4+"
+        }
+    },
+    "Valkyries": {
+        "Valkyrie": {
+            "model_count": "1-3",
+            "points_value": "105",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "14",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Avenger Strike Fighter": {
+        "Avenger Strike Fighter": {
+            "model_count": "1",
+            "points_value": "165",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "14",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Lightning Strike Fighter": {
+        "Lightning Strike Fighter": {
+            "model_count": "1",
+            "points_value": "135",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "14",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Thunderbolt Heavy Fighter": {
+        "Thunderbolt Heavy Fighter": {
+            "model_count": "1",
+            "points_value": "125",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "15",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Valkyrie Sky Talon": {
+        "Valkyrie Sky Talon": {
+            "model_count": "1",
+            "points_value": "130",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "14",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Vendetta Gunship": {
+        "Vendetta Gunship": {
+            "model_count": "1-3",
+            "points_value": "95",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "14",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Vulture Gunship": {
+        "Vulture Gunship": {
+            "model_count": "1-3",
+            "points_value": "140",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "7",
+            "toughness": "7",
+            "wounds": "14",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Cyclops Demolition Vehicle": {
+        "Cyclops Demolition Vehicle": {
+            "model_count": "1-3",
+            "points_value": "60",
+            "movement": "10\"",
+            "weapon_skill": "6+",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "6",
+            "wounds": "4",
+            "attacks": "1",
+            "leadership": "7",
+            "save": "3+"
+        }
+    },
+    "Elysian Heavy Weapons Squad": {
+        "Elysian Weapons Team": {
+            "model_count": "3",
+            "points_value": "5",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "2",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Tarantula Battery": {
+        "Tarantula Sentry Gun": {
+            "model_count": "1-3",
+            "points_value": "20",
+            "movement": "0\"",
+            "weapon_skill": "-",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "5",
+            "wounds": "5",
+            "attacks": "-",
+            "leadership": "7",
+            "save": "4+"
+        }
+    }
+}

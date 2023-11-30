@@ -1,0 +1,49 @@
+{
+    "Imperium": [
+      "adepta-sororitas.json",
+      "astra-militarum.json",
+      "death-korps-of-krieg.json",
+      "elysian-drop-troops.json",
+      "grey-knights.json",
+      "imperial-knights.json",
+      "officio-assassinorum.json",
+      "rogue-traders.json",
+      "space-wolves.json",
+      "adeptus-custodes.json",
+      "blood-angels.json",
+      "dark-angels.json",
+      "deathwatch.json",
+      "emperor-s-children.json",
+      "inquisition.json",
+      "sisters-of-silence.json",
+      "adeptus-mechanicus.json",
+      "space-marines.json"
+    ],
+    "Chaos": [
+      "chaos-daemons.json",
+      "chaos-knights.json",
+      "chaos-space-marines.json",
+      "death-guard.json",
+      "heretic-titan-legions.json",
+      "renegades-and-heretics.json",
+      "world-eaters.json",
+      "emperor-s-children.json",
+      "thousand-sons.json"
+    ],
+    "Eldar": [
+      "craftworlds.json",
+      "harlequins.json",
+      "ynnari.json",
+      "dark-angels.json"
+    ],
+    "Xenos": [
+      "orks.json",
+      "tau-empire.json",
+      "tyranids.json",
+      "unaligned.json",
+      "drukhari.json",
+      "genestealer-cults.json",
+      "necrons.json"
+    ]
+  }
+  

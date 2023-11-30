@@ -1,0 +1,212 @@
+{
+    "Inquisitor": {
+        "Inquisitor": {
+            "model_count": "1",
+            "points_value": "60",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "9",
+            "save": "4+"
+        }
+    },
+    "Inquisitor Coteaz": {
+        "Inquisitor Coteaz": {
+            "model_count": "1",
+            "points_value": "95\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "10",
+            "save": "2+"
+        }
+    },
+    "Inquisitor Eisenhorn": {
+        "Inquisitor Eisenhorn": {
+            "model_count": "1",
+            "points_value": "85\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "10",
+            "save": "4+"
+        }
+    },
+    "Inquisitor Greyfax": {
+        "Inquisitor Greyfax": {
+            "model_count": "1",
+            "points_value": "90\u2022",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "10",
+            "save": "3+"
+        }
+    },
+    "Inquisitor Karamazov": {
+        "Inquisitor Karamazov": {
+            "model_count": "1",
+            "points_value": "125\u2022",
+            "movement": "5\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "5",
+            "toughness": "5",
+            "wounds": "8",
+            "attacks": "4",
+            "leadership": "10",
+            "save": "4+"
+        }
+    },
+    "Lord Inquisitor Kyria Draxus": {
+        "Lord Inquisitor Kyria Draxus": {
+            "model_count": "1",
+            "points_value": "85\u2022",
+            "movement": "6\"",
+            "weapon_skill": "2+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "9",
+            "save": "3+"
+        }
+    },
+    "Ordo Malleus Inquisitor in Terminator Armour": {
+        "Ordo Malleus Inquisitor in Terminator Armour": {
+            "model_count": "1",
+            "points_value": "95",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "6",
+            "attacks": "4",
+            "leadership": "9",
+            "save": "2+"
+        }
+    },
+    "Inquisitor-Lord Hector Rex": {
+        "Inquisitor-Lord Hector Rex": {
+            "model_count": "1",
+            "points_value": "110",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "4",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "3",
+            "leadership": "9",
+            "save": "2+"
+        }
+    },
+    "Inquisitor-Lord Solomon Lok": {
+        "Inquisitor-Lord Solomon Lok": {
+            "model_count": "1",
+            "points_value": "75",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "9",
+            "save": "3+"
+        }
+    },
+    "Inquisitor (Legendary)": {
+        "Inquisitor": {
+            "model_count": "1",
+            "points_value": "55",
+            "movement": "6\"",
+            "weapon_skill": "3+",
+            "ballistic_skill": "3+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "5",
+            "attacks": "4",
+            "leadership": "9",
+            "save": "4+"
+        }
+    },
+    "Acolytes": {
+        "Acolyte": {
+            "model_count": "1-6",
+            "points_value": "9",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "3",
+            "toughness": "3",
+            "wounds": "1",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "5+"
+        }
+    },
+    "Daemonhost": {
+        "Daemonhost": {
+            "model_count": "1",
+            "points_value": "25",
+            "movement": "6\"",
+            "weapon_skill": "4+",
+            "ballistic_skill": "4+",
+            "strength": "4",
+            "toughness": "4",
+            "wounds": "4",
+            "attacks": "3",
+            "leadership": "7",
+            "save": "7+"
+        }
+    },
+    "Jokaero Weaponsmith": {
+        "Jokaero Weaponsmith": {
+            "model_count": "1",
+            "points_value": "20",
+            "movement": "6\"",
+            "weapon_skill": "6+",
+            "ballistic_skill": "4+",
+            "strength": "2",
+            "toughness": "3",
+            "wounds": "3",
+            "attacks": "2",
+            "leadership": "7",
+            "save": "7+"
+        }
+    },
+    "Inquisition Land Raider Prometheus": {
+        "Inquisition Land Raider Prometheus": {
+            "model_count": "1",
+            "points_value": "180",
+            "movement": "*",
+            "weapon_skill": "6+",
+            "ballistic_skill": "*",
+            "strength": "8",
+            "toughness": "8",
+            "wounds": "16",
+            "attacks": "*",
+            "leadership": "9",
+            "save": "2+"
+        }
+    }
+}

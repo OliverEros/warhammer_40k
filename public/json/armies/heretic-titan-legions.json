@@ -1,0 +1,47 @@
+{
+    "Chaos Reaver Battle Titan": {
+        "Chaos Reaver Battle Titan": {
+            "model_count": "1",
+            "points_value": "4000\u2022",
+            "movement": "*",
+            "weapon_skill": "*",
+            "ballistic_skill": "*",
+            "strength": "10",
+            "toughness": "10",
+            "wounds": "60",
+            "attacks": "5",
+            "leadership": "10",
+            "save": "3+"
+        }
+    },
+    "Chaos Warhound Scout Titan": {
+        "Chaos Warhound Scout Titan": {
+            "model_count": "1",
+            "points_value": "2000\u2022",
+            "movement": "*",
+            "weapon_skill": "*",
+            "ballistic_skill": "*",
+            "strength": "10",
+            "toughness": "9",
+            "wounds": "35",
+            "attacks": "4",
+            "leadership": "10",
+            "save": "3+"
+        }
+    },
+    "Chaos Warlord Battle Titan": {
+        "Chaos Warlord Battle Titan": {
+            "model_count": "1",
+            "points_value": "6000\u2022",
+            "movement": "*",
+            "weapon_skill": "*",
+            "ballistic_skill": "*",
+            "strength": "16",
+            "toughness": "16",
+            "wounds": "70",
+            "attacks": "5",
+            "leadership": "10",
+            "save": "2+"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Reaver Battle Titan": {
+        "Reaver Battle Titan": {
+            "model_count": "1",
+            "points_value": "4000\u2022",
+            "movement": "*",
+            "weapon_skill": "*",
+            "ballistic_skill": "*",
+            "strength": "10",
+            "toughness": "10",
+            "wounds": "60",
+            "attacks": "5",
+            "leadership": "10",
+            "save": "3+"
+        }
+    },
+    "Warbringer Nemesis Titan": {
+        "Warbringer Nemesis Titan": {
+            "model_count": "1",
+            "points_value": "5000\u2022",
+            "movement": "*",
+            "weapon_skill": "*",
+            "ballistic_skill": "*",
+            "strength": "13",
+            "toughness": "13",
+            "wounds": "65",
+            "attacks": "5",
+            "leadership": "10",
+            "save": "2+"
+        }
+    },
+    "Warhound Scout Titan": {
+        "Warhound Scout Titan": {
+            "model_count": "1",
+            "points_value": "2000\u2022",
+            "movement": "*",
+            "weapon_skill": "*",
+            "ballistic_skill": "*",
+            "strength": "10",
+            "toughness": "9",
+            "wounds": "35",
+            "attacks": "4",
+            "leadership": "10",
+            "save": "3+"
+        }
+    },
+    "Warlord Battle Titan": {
+        "Warlord Battle Titan": {
+            "model_count": "1",
+            "points_value": "6000\u2022",
+            "movement": "*",
+            "weapon_skill": "*",
+            "ballistic_skill": "*",
+            "strength": "16",
+            "toughness": "16",
+            "wounds": "70",
+            "attacks": "5",
+            "leadership": "10",
+            "save": "2+"
+        }
+    }
+}
